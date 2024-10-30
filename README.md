@@ -21,8 +21,9 @@ My name is Jason Scherer. I am a "dark matter" developer mainly with a loving wi
 
 ## How do I pay the bills?
 
-During the day, I work a typical 9 to 5 style job at this time at a computer manufacturing company. There we use the following stacks;
+During the day, I work a typical 9 to 5 style job at this time at a hospitality company doing hardware integrations. There we use the following stacks;
 
+- Golang
 - ASP.net
 - .net core
 - Django
@@ -35,8 +36,9 @@ During the day, I work a typical 9 to 5 style job at this time at a computer man
 
 ## Currently working on
 
-At work I'm currently working on a replacement project that deals with testing computer systems with automated tasks.  Right now that project is developed in Perl but is being converted into Python and C#.  Along with this I'm trying to learn and get myself more into Front End and learning more about front end.
-
+Currently at work I am an automation engineer working with golang, python, C++ and make files.  Personal time is being focused on typescript and randomly learning other languages.  I am wanting to start work on a project management style utility and a MSP style software.
+<!--At work I'm currently working on a replacement project that deals with testing computer systems with automated tasks.  Right now that project is developed in Perl but is being converted into Python and C#.  Along with this I'm trying to learn and get myself more into Front End and learning more about front end.
+-->
 ## Where can I follow you?
 
 You are most welcome to follow me here at github, however I also have;
