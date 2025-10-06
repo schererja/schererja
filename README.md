@@ -23,7 +23,7 @@ I enjoy building reliable, maintainable systems and finding elegant solutions to
 
 Beyond my professional role, I’m expanding my skills in **TypeScript** and exploring ways to improve developer workflows through new tools and frameworks. My current personal projects include:
 
-* A **project management utility** tailored for software teams
+* A **Wrapper for Yocto/Bitbake** something to make the process smoother and not as messy to modify.
 * A **Managed Service Provider (MSP)** platform focused on automation and insight-driven operations
 
 These projects reflect my interest in scalable architectures and automation-first design.
