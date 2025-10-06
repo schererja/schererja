@@ -1,46 +1,36 @@
-
-<!--
-**schererja/schererja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ### Welcome
 
-My name is Jason Scherer. I am a "dark matter" developer mainly with a loving wife and two kids.  With a huge willingness to learn and motivation to deal with development challenges that come daily.
+I’m **Jason Scherer**, a senior software engineer and “dark matter” developer — one of those who build the systems many rely on but few ever see. I’m driven by curiosity, constant learning, and the challenge of solving real-world engineering problems. Outside of work, I’m a husband and father of two, always striving to balance family life with my passion for technology.
 
-## How do I pay the bills?
+---
 
-During the day, I work a typical 9 to 5 style job at this time at a hospitality company doing hardware integrations. There we use the following stacks;
+## Professional Focus
 
-- Golang
-- ASP.net
-- .net core
-- Django
-- Python
-- MySQL
-- SQL Server
-- Perl
-- Golang
-- Linux (Ubuntu)
+I currently work as an automation engineer in the hospitality technology industry, specializing in hardware integrations and backend systems. My daily responsibilities include designing, maintaining, and improving automation frameworks and infrastructure.
 
-## Currently working on
+**Technical Stack**
 
-Currently at work I am an automation engineer working with golang, python, C++ and make files.  Personal time is being focused on typescript and randomly learning other languages.  I am wanting to start work on a project management style utility and a MSP style software.
-<!--At work I'm currently working on a replacement project that deals with testing computer systems with automated tasks.  Right now that project is developed in Perl but is being converted into Python and C#.  Along with this I'm trying to learn and get myself more into Front End and learning more about front end.
--->
-## Where can I follow you?
+* **Languages:** Go (Golang), Python, C#, C++, Perl, TypeScript
+* **Frameworks:**  .NET Core, Django, 
+* **Databases:** MySQL, SQL Server
+* **Environments:** Linux (Ubuntu), Mac OS X, Windows 11
 
-You are most welcome to follow me here at github, however I also have;
+I enjoy building reliable, maintainable systems and finding elegant solutions to complex technical challenges.
 
-- Twitter: https://twitter.com/schererja1
+---
+
+## Current Projects
+
+Beyond my professional role, I’m expanding my skills in **TypeScript** and exploring ways to improve developer workflows through new tools and frameworks. My current personal projects include:
+
+* A **project management utility** tailored for software teams
+* A **Managed Service Provider (MSP)** platform focused on automation and insight-driven operations
+
+These projects reflect my interest in scalable architectures and automation-first design.
+
+---
+
+## Connect
+
+You can find my work and projects here on **[GitHub](https://github.com/schererja)**.
+I’m also active on **[Twitter (X)](https://twitter.com/schererja1)**, where I share thoughts on development, automation, and system design.
