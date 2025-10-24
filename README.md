@@ -18,5 +18,5 @@ By day, I work on hardware integration and diagnostics in the gaming industry, u
 
 ## 🌐 Connect
 - [LinkedIn](https://www.linkedin.com/in/jasonrscherer)
-- [Blog](https://schererja.wordpress.com/)
+- [Blog](https://schererja.github.io/)
 - [Twitter](https://twitter.com/schererja1)
