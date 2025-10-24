@@ -1,36 +1,22 @@
-### Welcome
+# 👋 Hi, I'm Jason Scherer
 
-I’m **Jason Scherer**, a senior software engineer and “dark matter” developer — one of those who build the systems many rely on but few ever see. I’m driven by curiosity, constant learning, and the challenge of solving real-world engineering problems. Outside of work, I’m a husband and father of two, always striving to balance family life with my passion for technology.
+I'm a Senior Software Engineer specializing in backend development, embedded Linux (Yocto), and automation. I build scalable Golang APIs, secure cloud-connected systems, and reproducible CI/CD pipelines.
 
----
+By day, I work on hardware integration and diagnostics in the gaming industry, using stacks like Golang, Python, Django, ASP.NET, and embedded Linux. By night, I'm exploring TypeScript and building tools for project management and MSP-style workflows.
 
-## Professional Focus
+## 🔧 Tech Stack
+- **Languages:** Go, Python, C#, JavaScript, TypeScript, SQL
+- **Frameworks:** Django, ASP.NET, React, Vue.js
+- **DevOps & Build:** GitHub Actions, Docker, Yocto, BitBake, Make, CMake
+- **Systems:** Embedded Linux (ARM64), Arduino, Systemd
 
-I currently work as an automation engineer in the hospitality technology industry, specializing in hardware integrations and backend systems. My daily responsibilities include designing, maintaining, and improving automation frameworks and infrastructure.
+## 📌 Projects
+- [SalesForceSOQLExtract](https://github.com/schererja/SalesForceSOQLExtract): C# tool for extracting Salesforce data
+- [AzureDownloader-csharp](https://github.com/schererja/AzureDownloader-csharp): Azure file downloader utility
+- [chirp](https://github.com/schererja/chirp): TypeScript learning sandbox
+- [smidr](https://github.com/schererja/smidr): Wrapper for yocto and bitbake to use docker
 
-**Technical Stack**
-
-* **Languages:** Go (Golang), Python, C#, C++, Perl, TypeScript
-* **Frameworks:**  .NET Core, Django, 
-* **Databases:** MySQL, SQL Server
-* **Environments:** Linux (Ubuntu), Mac OS X, Windows 11
-
-I enjoy building reliable, maintainable systems and finding elegant solutions to complex technical challenges.
-
----
-
-## Current Projects
-
-Beyond my professional role, I’m expanding my skills in **TypeScript** and exploring ways to improve developer workflows through new tools and frameworks. My current personal projects include:
-
-* A **Wrapper for Yocto/Bitbake** something to make the process smoother and not as messy to modify.
-* A **Managed Service Provider (MSP)** platform focused on automation and insight-driven operations
-
-These projects reflect my interest in scalable architectures and automation-first design.
-
----
-
-## Connect
-
-You can find my work and projects here on **[GitHub](https://github.com/schererja)**.
-I’m also active on **[Twitter (X)](https://twitter.com/schererja1)**, where I share thoughts on development, automation, and system design.
+## 🌐 Connect
+- [LinkedIn](https://www.linkedin.com/in/jasonrscherer)
+- [Blog](https://schererja.wordpress.com/)
+- [Twitter](https://twitter.com/schererja1)
