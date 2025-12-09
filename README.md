@@ -5,10 +5,15 @@ I'm a Senior Software Engineer specializing in backend development, embedded Lin
 By day, I work on hardware integration and diagnostics in the gaming industry and manufacturing, using stacks like Golang, Python, Django, ASP.NET, and embedded Linux. By night, I'm exploring TypeScript and building tools for project management and MSP-style workflows.
 
 ## 🔧 Tech Stack
-- **Languages:** Go, Python, C#, JavaScript, TypeScript, SQL
-- **Frameworks:** Django, ASP.NET, React, Vue.js
-- **DevOps & Build:** GitHub Actions, Docker, Yocto, BitBake, Make, CMake
-- **Systems:** Embedded Linux (ARM64), Arduino, Systemd
+* **Languages:** Go, Python, JavaScript, C++, C#, SQL, Perl, Javascript
+* **Frontend & Full-Stack:** React, Next.js, Vue.js, ASP.NET, Django
+* **Backend & APIs:** gRPC, REST, WebSockets, RabbitMQ
+* **DevOps & Build Systems:** GitHub Actions, Docker, Azure DevOps, Yocto/BitBake, CMake, Make
+* **Platforms:** Linux (ARM64/AMD64), Embedded Linux, Windows, Systemd
+* **Databases:** MySQL, PostgreSQL, NoSQL
+* **Security & Tools:** AppArmor, Rsyslog, Cycode, Jira, Arduino
+* **Domains:** Embedded automation, hardware/software integration, CI/CD, backend development, diagnostic systems
+
 
 ## 📌 Projects
 - [SalesForceSOQLExtract](https://github.com/schererja/SalesForceSOQLExtract): C# tool for extracting Salesforce data
